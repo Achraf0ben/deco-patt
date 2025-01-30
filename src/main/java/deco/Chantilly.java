@@ -10,7 +10,7 @@ public class Chantilly extends DecorateurBoisson{
 
     @Override
     public String getDescrciption() {
-        return boisson.getDescrciption()+" Au Chantilly";
+        return boisson.getDescrciption()+" Au Chantilly .";
     }
 
     @Override
